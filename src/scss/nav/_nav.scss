@@ -1,0 +1,17 @@
+nav{
+    background-color: aquamarine;
+    text-decoration: #ff5733;
+    width: 10rem;
+}
+
+@media (min-width: 700px) { 
+    .navbar{
+            text-align: center;
+           }
+}
+
+.alpha { color: $purple; }
+.beta {
+  color: $yellow-300;
+  background-color: $indigo-900;
+}
